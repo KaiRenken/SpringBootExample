@@ -8,7 +8,6 @@ public class GreetingDto {
         this.name = name;
     }
 
-
     public String getName() {
         return name;
     }
